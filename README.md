@@ -3,6 +3,14 @@
 ## Analisis Pengaruh Perubahan Jumlah Sampel Menggunakan Rumus Slovin terhadap Hasil Estimasi pada Survei Kepuasan Mahasiswa
 
 ---
+## Identitas Peneliti
+
+**Nama:** Aliatul Jannah  
+**NIM:** G1F02410001  
+**Program Studi:** Statistika  
+**Fakultas:** Fakultas Matematika dan Ilmu Pengetahuan Alam  
+**Universitas:** Universitas Mataram  
+**Tahun:** 2026  
 
 # Latar Belakang
 
