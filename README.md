@@ -26,13 +26,17 @@ Penelitian ini bertujuan untuk membandingkan hasil estimasi yang diperoleh dari 
 
 1. Bagaimana menentukan jumlah sampel menggunakan rumus Slovin dengan tingkat kesalahan 17%?
    
-2. Bagaimana perbandingan hasil estimasi antara penelitian sebelumnya dengan 32 responden dan penelitian saat ini dengan 20 responden?
+2. Bagaimana hasil naive estimation dan weighted estimation pada data dengan jumlah sampel sebanyak 20 responden?
+   
+3. Bagaimana perbandingan hasil estimasi antara penelitian sebelumnya dengan 32 responden dan penelitian saat ini dengan 20 responden?
 
 ---
 
 # Tujuan Penelitian
 
 1. Menentukan jumlah sampel menggunakan rumus Slovin dengan tingkat kesalahan 17%.
+   
+2. Menghitung naive estimation dan weighted estimation berdasarkan data 20 responden.
 
 3. Membandingkan hasil estimasi antara jumlah sampel 32 responden dan 20 responden.
 
@@ -163,6 +167,27 @@ Nilai Cronbach Alpha pada kedua penelitian sama-sama lebih besar dari 0,6 sehing
 
 ---
 
-# Kesimpulan Perbandingan
+# Perbandingan Hasil Naive Estimation dan Weighted Estimation
 
-Berdasarkan hasil perbandingan, penelitian dengan jumlah sampel 32 responden maupun 20 responden sama-sama menghasilkan instrumen yang valid dan reliabel. Hal ini menunjukkan bahwa meskipun jumlah sampel pada Tugas 2 lebih sedikit, kualitas instrumen penelitian masih tetap baik dan dapat digunakan untuk mengukur tingkat kepuasan mahasiswa terhadap fasilitas ruang kuliah di FMIPA Universitas Mataram.
+Pada penelitian sebelumnya dengan jumlah sampel sebanyak 32 responden, diperoleh hasil naive estimation sebesar 31% untuk responden laki-laki dan 69% untuk responden perempuan. Setelah dilakukan pembobotan menggunakan weighted estimation, proporsi laki-laki meningkat menjadi 36%, sedangkan proporsi perempuan menurun menjadi 64%.
+
+Sementara itu, pada penelitian dengan jumlah sampel sebanyak 20 responden diperoleh hasil naive estimation sebesar 30% untuk responden laki-laki dan 70% untuk responden perempuan. Setelah dilakukan weighted estimation, proporsi laki-laki meningkat menjadi 35% dan proporsi perempuan menurun menjadi 65%.
+
+<img width="398" height="318" alt="grafik naive weighted" src="https://github.com/user-attachments/assets/995fb8cb-2d68-4868-87bb-a8a330a57fba" />
+<img width="902" height="527" alt="image" src="https://github.com/user-attachments/assets/94c92a86-1a56-4e7f-bff5-bb5557274148" />
+
+## Interpretasi
+
+Berdasarkan hasil tersebut, terlihat bahwa baik pada sampel 32 responden maupun 20 responden, metode weighted estimation menghasilkan perubahan proporsi yang tidak terlalu jauh dari naive estimation. Pada kedua penelitian, proporsi responden laki-laki mengalami peningkatan setelah dilakukan pembobotan, sedangkan proporsi responden perempuan mengalami sedikit penurunan.
+
+Perbedaan hasil estimasi antara penelitian dengan 32 sampel dan 20 sampel juga relatif kecil. Hal ini menunjukkan bahwa meskipun jumlah sampel dikurangi, pola distribusi data masih cenderung konsisten. Dengan demikian, hasil estimasi pada penelitian dengan 20 responden masih dapat menggambarkan kondisi populasi dengan cukup baik.
+
+# Kesimpulan Perbandingan
+Berdasarkan hasil analisis pada penelitian dengan jumlah sampel 32 responden dan 20 responden, diperoleh bahwa kedua penelitian sama-sama menghasilkan instrumen yang valid dan reliabel. Pada uji validitas, seluruh item pertanyaan memiliki nilai r.drop lebih besar dari 0,3 sehingga seluruh item dinyatakan valid. Selain itu, hasil uji reliabilitas menunjukkan nilai Cronbach Alpha lebih besar dari 0,6, sehingga instrumen penelitian dinyatakan reliabel dan layak digunakan dalam pengukuran tingkat kepuasan mahasiswa terhadap fasilitas ruang kuliah di FMIPA Universitas Mataram.
+
+Hasil naive estimation dan weighted estimation pada kedua penelitian juga menunjukkan pola distribusi yang relatif konsisten. Pada penelitian dengan 32 responden, proporsi responden laki-laki meningkat dari 31% menjadi 36% setelah dilakukan pembobotan, sedangkan proporsi perempuan menurun dari 69% menjadi 64%. Sementara itu, pada penelitian dengan 20 responden, proporsi laki-laki meningkat dari 30% menjadi 35% dan proporsi perempuan menurun dari 70% menjadi 65% setelah dilakukan weighted estimation.
+
+Perbedaan hasil estimasi antara kedua penelitian tidak terlalu besar meskipun jumlah sampel berbeda. Hal ini menunjukkan bahwa pengurangan jumlah sampel dari 32 responden menjadi 20 responden tidak memberikan perubahan yang signifikan terhadap pola hasil estimasi. Dengan demikian, penelitian dengan jumlah sampel yang lebih sedikit masih mampu memberikan gambaran kondisi populasi yang cukup baik.
+
+Secara keseluruhan, metode non-probability sampling dengan pendekatan convenience sampling masih dapat digunakan untuk memperoleh data penelitian secara efektif dan efisien, terutama dalam penelitian survei online. Namun, penelitian dengan jumlah sampel yang lebih besar tetap memberikan hasil estimasi yang lebih stabil dan lebih baik dalam merepresentasikan populasi dibandingkan penelitian dengan jumlah sampel yang lebih sedikit.
+```
