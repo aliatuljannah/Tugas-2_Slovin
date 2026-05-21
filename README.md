@@ -25,18 +25,14 @@ Penelitian ini bertujuan untuk membandingkan hasil estimasi yang diperoleh dari 
 # Rumusan Masalah
 
 1. Bagaimana menentukan jumlah sampel menggunakan rumus Slovin dengan tingkat kesalahan 17%?
-
-2. Bagaimana hasil naive estimation dan weighted estimation pada data dengan jumlah sampel sebanyak 20 responden?
-
-3. Bagaimana perbandingan hasil estimasi antara penelitian sebelumnya dengan 32 responden dan penelitian saat ini dengan 20 responden?
+   
+2. Bagaimana perbandingan hasil estimasi antara penelitian sebelumnya dengan 32 responden dan penelitian saat ini dengan 20 responden?
 
 ---
 
 # Tujuan Penelitian
 
 1. Menentukan jumlah sampel menggunakan rumus Slovin dengan tingkat kesalahan 17%.
-
-2. Menghitung naive estimation dan weighted estimation berdasarkan data 20 responden.
 
 3. Membandingkan hasil estimasi antara jumlah sampel 32 responden dan 20 responden.
 
